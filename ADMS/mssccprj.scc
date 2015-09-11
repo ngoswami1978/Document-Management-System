@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[ADMS.sln]
+SCC_Aux_Path = "\\192.168.94.101\vss$\VSS"
+SCC_Project_Name = "$/AAMS/Interface/ADMS", ROMEAAAA
+
+[ADMS.vbproj]
+SCC_Aux_Path = "\\192.168.94.101\vss$\VSS"
+SCC_Project_Name = "$/AAMS/Interface/ADMS", ROMEAAAA
